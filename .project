@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <projectDescription>
-	<name>Desktop_java project</name>
-	<comment></comment>
+	
+	<comment><name>Desktop_java project</name></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 	</buildSpec>
 	<natures>
 	</natures>
-</projectDescription>
+<?xml version="1.0" encoding="UTF-8"?></projectDescription>
